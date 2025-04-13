@@ -79,18 +79,19 @@ header {
     align-items: center;
     position: absolute;
     right: 0;
-    width: 100%;
+    width: 50%;
 }
 
 .passport img{
     right: 0%;
     position: absolute;
-    width: 30%;
+    width: 50%;
 }
 
 .passport div {
     position: relative;
     margin-left: 10%;
+    font-size:initial;
 }
 
 .pullMe {
