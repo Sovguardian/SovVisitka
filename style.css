@@ -85,10 +85,12 @@ header {
 .passport img{
     right: 0%;
     position: absolute;
+    width: 30%;
 }
 
 .passport div {
-    transform: translate(40%);
+    position: relative;
+    margin-left: 10%;
 }
 
 .pullMe {
