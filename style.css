@@ -79,6 +79,12 @@ header {
     align-items: center;
     position: absolute;
     right: 0;
+    width: 100%;
+}
+
+.passport img{
+    right: 0%;
+    position: absolute;
 }
 
 .passport div {
