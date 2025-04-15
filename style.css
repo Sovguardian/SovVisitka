@@ -77,15 +77,16 @@ header {
 .passport {
     display: flex;
     align-items: center;
-    position: absolute;
     right: 0;
     width: 50%;
+    max-width: 256px;
 }
 
 .passport img {
     right: 0%;
     position: absolute;
     width: 50%;
+    max-width: 256px;
 }
 
 .passport div {
